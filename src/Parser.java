@@ -33,8 +33,17 @@ public class Parser {
             duration = argumentParams.get("duration");
             logFileLocation = argumentParams.get("accesslog");
 
-            if(logFileLocation == null || startDate == null || threshold ==null || duration ==null ){
-                System.out.println("Incomplete parameters supplied, exiting");
+            if(logFileLocation == null ) {
+                System.out.println("Incomplete parameters supplied, access.log path not specified");
+                System.exit(1);
+            }else  if(startDate == null){
+                System.out.println("Incomplete parameters supplied, startDate not specfied");
+                System.exit(1);
+            }else  if( threshold ==null  ){
+                System.out.println("Incomplete parameters supplied, threshold not specified");
+                System.exit(1);
+            }else if(duration == null ){
+                System.out.println("Incomplete parameters supplied, duration not specified");
                 System.exit(1);
             }
 

@@ -7,3 +7,4 @@ HAVING  COUNT(ip) > 100 ORDER BY ip;
 
 -- TEST 2: Write MySQL query to find requests made by a given IP.
 SELECT * from general_ip_logs where ip = "192.168.77.101";
+

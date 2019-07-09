@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS general_ip_logs
               request VARCHAR(50) DEFAULT NULL,
               date TIMESTAMP,
               user_Agent VARCHAR(200) DEFAULT NULL
-          )
+          );
 
 
 CREATE TABLE IF NOT EXISTS filtered_ip_addresses
@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS filtered_ip_addresses
               startDate VARCHAR (50) DEFAULT NULL ,
               duration VARCHAR(10) DEFAULT NULL,
               threshold INT DEFAULT NULL,
-              comment VARCHAR(200) DEFAULT NULL
+              comment VARCHAR(200) DEFAULT NULL,
               createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-          )
+          );
 
