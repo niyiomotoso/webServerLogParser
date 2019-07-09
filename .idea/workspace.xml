@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f73cc59-d76b-43dc-9ed8-151cd9fd178f" name="Default Changelist" comment="" />
+    <list default="true" id="4f73cc59-d76b-43dc-9ed8-151cd9fd178f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,34 +158,6 @@
               <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="Parser" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="Parser_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562654784977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562655886248" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -301,12 +275,12 @@
       <workItem from="1561761100344" duration="9940000" />
       <workItem from="1562042881495" duration="2829000" />
       <workItem from="1562339378068" duration="3188000" />
-      <workItem from="1562578160448" duration="1680000" />
+      <workItem from="1562578160448" duration="2579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42995000" />
+    <option name="totallyTimeSpent" value="43894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
