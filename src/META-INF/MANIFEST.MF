@@ -1,3 +1,5 @@
 Manifest-Version: 1.0
+Class-Path: Class-Path: /Users/mac/Documents/pers/Parser/libs/mysql-co
+ nnector.jar
 Main-Class: Parser
-Class-Path: MyUtils.jar
+
